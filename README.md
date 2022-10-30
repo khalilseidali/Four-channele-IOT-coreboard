@@ -12,3 +12,9 @@ Two solo power supply for digital unit ( HK-PM12 & USB_5V )
 I2C interface for monitoring unit
 
 Last but not least , ESP32-V4 for bluetooth and WiFi communication
+
+ ### Includes
+ 
+Two-Layer PCB altium file ( as usual 4 sch pages and 1 pcb )
+
+Datasheets
