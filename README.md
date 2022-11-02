@@ -1,5 +1,5 @@
 # Four-channele-IOT-coreboard
-BLE &amp; Wi-Fi 
+Bluetooth &amp; Wi-Fi 
 
 There is always a benefit to use esp32 for any kind of projects that you need to controle a system via bluetooth or Wifi; That is "BLE". 
 
